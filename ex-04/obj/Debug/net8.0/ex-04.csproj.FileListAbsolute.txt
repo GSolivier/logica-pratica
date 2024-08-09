@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\bin\Debug\net8.0\ex-04.exe
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\bin\Debug\net8.0\ex-04.deps.json
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\bin\Debug\net8.0\ex-04.runtimeconfig.json
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\bin\Debug\net8.0\ex-04.dll
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\bin\Debug\net8.0\ex-04.pdb
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.sourcelink.json
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.dll
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\refint\ex-04.dll
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.pdb
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ex-04.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\projs\logica-pratica\ex-04\obj\Debug\net8.0\ref\ex-04.dll
